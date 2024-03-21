@@ -1,11 +1,9 @@
 # Personal monthly budget manager
 ###### By Santiago Sanchez Pulgarin
 
-<img src="images/monthly_budget.png" width="200" height="200" align="right"/>
+<img src="images/monthly_budget.png" width="350" height="350"/>
 
-<p style="text-align: left">
 This project points to a personal manager for montlhy budget. I've been using google sheets quite a while and I'm pretty p*ssed off about how difficult it is for getting what I want for monitoring. So I gonna used this instead of that.
-</p>
 
 ## Installation
 
