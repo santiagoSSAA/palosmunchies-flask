@@ -1,19 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!DOCTYPE html>
-    <html lang="en">
+
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Kawaii Landing Page</title>
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/index_style.css') }}">
+        <link rel="stylesheet"
+            href="{{ url_for('static', filename='css/index_style.css') }}">
+        <title>Backend Software Engineer</title>
     </head>
-<body>
-    <div>
-        <span class="kawaii-emoji">๐ฅฐ</span>
-        <h1>Welcome to Kawaii Land!</h1>
-        <p>This is a super cute and kawaii landing page.</p>
-        <p>Enjoy the cuteness! ๐ถ๐ป</p>
-    </div>
-</body>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#about"><i class="fas fa-user"></i>
+                            About</a></li>
+                    <li><a href="#skills"><i class="fas fa-code"></i>
+                            Skills</a></li>
+                    <li><a href="#experience"><i class="fas fa-briefcase"></i>
+                            Experience</a></li>
+                    <li><a href="#education"><i
+                                class="fas fa-graduation-cap"></i>
+                            Education</a></li>
+                </ul>
+            </nav>
+            <h1>John Doe</h1>
+            <p>Backend Software Engineer</p>
+            <a href="#contact" class="cta-button">Hire Me</a>
+        </header>
+        <main>
+            <section id="about">
+                <h2>About Me</h2>
+                <p>I am a highly skilled and motivated backend software engineer
+                    with over 5 years of experience in designing and
+                    implementing scalable and efficient systems. I am passionate
+                    about building high-quality software that solves real-world
+                    problems.</p>
+            </section>
+            <section id="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>Programming languages: Java, Python, Ruby</li>
+                    <li>Web frameworks: Spring, Django, Ruby on Rails</li>
+                    <li>Databases: MySQL, PostgreSQL, MongoDB</li>
+                    <li>Cloud platforms: AWS, Google Cloud, Azure</li>
+                </ul>
+            </section>
+            <section id="experience">
+                <h2>Experience</h2>
+                <h3>Senior Backend Software Engineer, XYZ Inc.</h3>
+                <p>January 2018 - Present</p>
+                <ul>
+                    <li>Designed and implemented a high-traffic e-commerce
+                        platform using Java and Spring Boot</li>
+                    <li>Led a team of engineers to deliver a complex data
+                        migration project on time and under budget</li>
+                    <li>Collaborated with product managers and designers to
+                        deliver user-friendly and performant APIs</li>
+                </ul>
+            </section>
+            <section id="education">
+                <h2>Education</h2>
+                <h3>Bachelor of Science in Computer Science, University of
+                    ABC</h3>
+                <p>2014 - 2018</p>
+            </section>
+        </main>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Email: john.doe@example.com</p>
+            <p>Phone: 555-555-5555</p>
+        </section>
+        <footer>
+            <p>&copy; 2023 John Doe</p>
+        </footer>
+        <script src="https://kit.fontawesome.com/yourcode.js"
+            crossorigin="anonymous"></script>
+    </body>
 </html>
