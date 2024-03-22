@@ -1,0 +1,49 @@
+/* General Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffedf5;
+    color: #ff92c3;
+    text-align: center;
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+/* Kawaii Emoji */
+.kawaii-emoji {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+}
+
+/* Kawaii Buttons */
+button {
+    background-color: #ff92c3;
+    color: #fff;
+    border: none;
+    padding: 0.8rem 1.6rem;
+    font-size: 1.2rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #ff6eb4;
+    transform: scale(1.1);
+}
+
+/* Kawaii Images */
+img {
+    max-width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(255, 146, 195, 0.5);
+}
