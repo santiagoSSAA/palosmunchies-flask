@@ -1,9 +1,9 @@
-# Personal monthly budget manager
+# THE MOST CHIMBA SEO FOR A DONATION PAGE
 ###### By Santiago Sanchez Pulgarin
 
-<img src="static/images/monthly_budget.png" width="350" height="350"/>
+<img src="static/images/optimized_seo_logo.png" width="350" height="350"/>
 
-This project points to a personal manager for montlhy budget. I've been using google sheets quite a while and I'm pretty p*ssed off about how difficult it is for getting what I want for monitoring. So I gonna used this instead of that.
+The goal of this project is to get as many people as possible to donate $0.50 USD out of pure goodwill, thanks to the power of SEO, the idea is to make this site as well known as possible.
 
 ## Installation
 
