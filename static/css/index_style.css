@@ -4,11 +4,16 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
+    background-image: url('./../images/FONDO\ WEED.svg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     background-color: #f5f5dc;
+    text-align: center;
   }
   
   header {
-    background-color: #ffeb3b;
+    background-color: #93cb56;
     color: #333;
     padding: 20px;
     display: flex;
@@ -33,7 +38,7 @@ body {
   }
   
   header nav ul li a {
-    color: #333;
+    color: #fff;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -70,7 +75,7 @@ body {
   section h2 {
     margin-top: 0;
     font-size: 1.8em;
-    color: #ffeb3b;
+    color: #6dc36d;
   }
   
   ul {
@@ -84,8 +89,8 @@ body {
   }
   
   footer {
-    background-color: #ffeb3b;
-    color: #333;
+    background-color: #93cb56;
+    color: #fff;
     padding: 10px;
     text-align: center;
     position: fixed;
@@ -101,8 +106,8 @@ body {
   
   .cta-button {
     display: inline-block;
-    background-color: #ffeb3b;
-    color: #333;
+    background-color: #7baa47;
+    color: #fff;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -114,7 +119,7 @@ body {
   
   .cta-button:hover {
     background-color: #fff;
-    color: #ffeb3b;
+    color: #333;
     cursor: pointer;
   }
   
@@ -142,3 +147,35 @@ body {
       max-width: 100%;
     }
   }
+
+article {
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 400px;
+}
+article header {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #fff;
+    background-color: #7baa47;
+}
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+button {
+    background-color: #059033;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #005689;
+}
+img {
+  width: 65%;
+}
