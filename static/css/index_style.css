@@ -4,7 +4,7 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-    background-image: url('./../images/Cannabis-leaves-transparent-background.svg');
+    background-image: url('/static/images/Cannabis-leaves-transparent-background.svg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
