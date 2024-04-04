@@ -1,4 +1,4 @@
-# THE MOST CHIMBA SEO FOR A DONATION PAGE
+# PALOSMUNCHIES - THE MOST CHIMBA SEO FOR A DONATION PAGE
 ###### By Santiago Sanchez Pulgarin
 
 <img src="static/images/optimized_seo_logo.png" width="350" height="350"/>
